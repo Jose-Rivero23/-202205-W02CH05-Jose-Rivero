@@ -211,3 +211,12 @@ console.log(cells[1].length);
 console.log(newCells.length);
 console.table(cells);
 console.table(newCells);
+
+/*
+for (let i = -1; index < 1; index++) {
+    for (let j = 0; index < array.length; index++) {
+        const element = array[index];
+        
+    }
+    
+}*/
